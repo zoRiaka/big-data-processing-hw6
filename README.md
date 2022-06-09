@@ -1,5 +1,5 @@
 # big-data-processing-hw6
-Six Homework for the UCU Big Data Processing course.
+Sixth Homework for the UCU Big Data Processing course.
 
 Results are stored in results.pdf and also in Screenshots folder 
 
